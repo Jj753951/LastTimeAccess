@@ -1,0 +1,3 @@
+# Игнориране на Visual Studio файлове
+.vs/
+*.vsidx
